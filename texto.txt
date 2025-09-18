@@ -1,4 +1,4 @@
-Soy la primera linea, un saludo.
-Soy la segunda linea, yo no saludo.
-Modificame porque soy la tercera linea.
+Un mago nunca llega tarde,
+ni pronto.
+Llega exactamente cuando se lo propone.
 Toca aprender Git.
